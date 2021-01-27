@@ -1,3 +1,10 @@
+sudo dnf install epel-release
+sudo dnf config-manager --set-enabled PowerTools
+sudo yum install R
+R --version
+sudo yum install make gcc gcc-c++ libcurl-devel libxml2-devel openssl-devel texlive-*
+R
+
 if (!requireNamespace("BiocManager", quietly=TRUE))
 install.packages("BiocManager")
 BiocManager::install("pcaMethods")
