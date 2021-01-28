@@ -8,3 +8,4 @@ missingno
 jupyter
 xlrd
 statsmodels
+keras
