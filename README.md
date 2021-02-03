@@ -1,5 +1,5 @@
 # Debuggers
-Bancolombia Dataton Code from the [Kaggle Competition](https://www.kaggle.com/c/datatonbc-2020), where yo can see the rules and download the data given to solve the problem.
+Bancolombia Dataton Code from the [Kaggle Competition](https://www.kaggle.com/c/datatonbc-2020), where you can see the rules and download the data that was given to solve the problem.
 
 # How much is the family monthly expense of each Bancolombia customers? 
 
