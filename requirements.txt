@@ -9,3 +9,4 @@ jupyter
 xlrd
 statsmodels
 keras
+modin[ray]
