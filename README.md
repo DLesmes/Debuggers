@@ -1,6 +1,8 @@
 # Debuggers
 Bancolombia Dataton Code from the [Kaggle Competition](https://www.kaggle.com/c/datatonbc-2020), where you can see the rules and download the data that was given to solve the problem
 
+You can see the IDE requirements for [python](https://github.com/DLesmes/Debuggers/blob/main/requirements.txt) and [R](https://github.com/DLesmes/Debuggers/blob/main/R_requirements.txt) used
+
 # How much is the family monthly expense of each Bancolombia customers? 
 
 To face this problem we explore three ways to master the data and make the final dataset to training the models
@@ -49,7 +51,7 @@ To modeling the problem we follow this steps
 
 5. Neuronal Networs ([1st](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig.ipynb), [2nd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_2.ipynb), [3rd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3.ipynb), [4th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_Znorm.ipynb))
 
-We did't win but we learn too much! 
+We didn't win but we learned too much! 
 
 # Variables 
 
