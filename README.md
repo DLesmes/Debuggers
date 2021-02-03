@@ -1,9 +1,9 @@
 # Debuggers
-Bancolombia Dataton Code from the [Kaggle Competition](https://www.kaggle.com/c/datatonbc-2020), where you can see the rules and download the data that was given to solve the problem.
+Bancolombia Dataton Code from the [Kaggle Competition](https://www.kaggle.com/c/datatonbc-2020), where you can see the rules and download the data that was given to solve the problem
 
 # How much is the family monthly expense of each Bancolombia customers? 
 
-To face this problem we explore three ways to master the data and make the final dataset to training the models.
+To face this problem we explore three ways to master the data and make the final dataset to training the models
 
 ## Data Engineering
 
@@ -13,13 +13,13 @@ To face this problem we explore three ways to master the data and make the final
 
   [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Calculo%20por%20mes.ipynb) is the code used to reach this objective. At the very beggining of this process the idea was to set the money variables in dic-20 value [here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Indexing_Input_Pesos_Dic_20.ipynb) based on the [IPC](https://totoro.banrep.gov.co/analytics/saw.dll?Download&Format=excel2007&Extension=.xls&BypassCache=true&lang=es&NQUser=publico&NQPassword=publico123&path=%2Fshared%2FSeries%20Estad%C3%ADsticas_T%2F1.%20IPC%20base%202018%2F1.2.%20Por%20a%C3%B1o%2F1.2.5.IPC_Serie_variaciones)
 
-2. Aggregate all data per month.
+2. Aggregate all data per month
 
   [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Aggregate_all_dataXid.ipynb) is the code used to reach this objective
 
 3. Take historical data along the timeline
 
-  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Categorical_Data_Engineering-Copy1.ipynb) is the code to reach this objective.
+  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Categorical_Data_Engineering-Copy1.ipynb) is the code to reach this objective
 
 In each case we have to impute all the missing values with the [PPCA](https://www.rdocumentation.org/packages/pcaMethods/versions/1.64.0/topics/ppca) R method [here](https://github.com/DLesmes/Debuggers/blob/main/PPCA4missing_values.R) and verificate the results here
 
@@ -33,13 +33,13 @@ To modeling the problem we follow this steps
 
 1. Correlations analysis, [this](https://github.com/DLesmes/Debuggers/blob/main/20%25/LinearRegresion.ipynb) was the one done in the data per id
 
-2. [Linear regression]()
+2. Linear regression
 
 * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xid_LinearRegresion.ipynb)
 * per [month](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xmes_LinearRegresion.ipynb)
 * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Xid_LinearRegresion-Copy1.ipynb)
 
-3. [PCA]()
+3. PCA
 
 * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xid_PCA.ipynb)
 * per [month](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xmes_PCA.ipynb)
@@ -49,7 +49,7 @@ To modeling the problem we follow this steps
 
 5. Neuronal Networs ([1st](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig.ipynb), [2nd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_2.ipynb), [3rd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3.ipynb), [4th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_Znorm.ipynb))
 
-We did't won't but we learn too much! 
+We did't win but we learn too much! 
 
 # Variables 
 
