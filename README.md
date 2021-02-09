@@ -27,7 +27,9 @@ In each case we have to impute all the missing values with the [PPCA](https://ww
 
   * Per [user Id](https://github.com/DLesmes/Debuggers/tree/main/80%25) 
   * Per [month](https://github.com/DLesmes/Debuggers/blob/main/80%25/Xmes_MissingValuesAnalysis.ipynb)
-  * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Xmes_MissingValuesAnalysis-Copy1.ipynb)
+  * Per all timeline 
+    * [z-norm](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Xmes_MissingValuesAnalysis-Copy1.ipynb)
+    * [Centred](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/LittlePig_PCA_Second_Centred.ipynb)
 
 ## Data Science
 
