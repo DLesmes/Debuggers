@@ -45,7 +45,7 @@ To modeling the problem we follow this steps
 
   * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xid_PCA.ipynb)
   * per [month](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xmes_PCA.ipynb)
-  * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Xid_PCA-Copy2.ipynb)
+  * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Xid_PCA_Second.ipynb)
 
 4. [Tree algorithms](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Default_DT_RF_ET.ipynb)
 
