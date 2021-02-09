@@ -27,9 +27,7 @@ In each case we have to impute all the missing values with the [PPCA](https://ww
 
   * Per [user Id](https://github.com/DLesmes/Debuggers/tree/main/80%25) 
   * Per [month](https://github.com/DLesmes/Debuggers/blob/main/80%25/Xmes_MissingValuesAnalysis.ipynb)
-  * Per all timeline 
-    * [z-norm](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Xmes_MissingValuesAnalysis-Copy1.ipynb)
-    * [Centred](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/LittlePig_PCA_Second_Centred.ipynb)
+  * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Xmes_MissingValuesAnalysis-Copy1.ipynb)
 
 ## Data Science
 
@@ -47,7 +45,9 @@ To modeling the problem we follow this steps
 
   * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xid_PCA.ipynb)
   * per [month](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xmes_PCA.ipynb)
-  * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Xid_PCA_Second.ipynb)
+  * Per all timeline
+    * [z-norm](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Xid_PCA_Second.ipynb)
+    * [Centred](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/LittlePig_PCA_Second_Centred.ipynb)
 
 4. [Tree algorithms](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Default_DT_RF_ET.ipynb)
 
