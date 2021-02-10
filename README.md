@@ -25,7 +25,7 @@ To face this problem we explore three ways to master the data and make the final
 
 In each case we have to impute all the missing values with the [PPCA](https://www.rdocumentation.org/packages/pcaMethods/versions/1.64.0/topics/ppca) R method [here](https://github.com/DLesmes/Debuggers/blob/main/PPCA4missing_values.R) and verificate the results here
 
-  * Per [user Id](https://github.com/DLesmes/Debuggers/tree/main/80%25) 
+  * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/80%25/Xid_MissingValuesAnalysis.ipynb) 
   * Per [month](https://github.com/DLesmes/Debuggers/blob/main/80%25/Xmes_MissingValuesAnalysis.ipynb)
   * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Xmes_MissingValuesAnalysis-Copy1.ipynb)
 
