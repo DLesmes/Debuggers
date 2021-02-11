@@ -25,7 +25,7 @@ To face this problem we explore three ways to master the data and make the final
 
 In each case we have to impute all the missing values with the [PPCA](https://www.rdocumentation.org/packages/pcaMethods/versions/1.64.0/topics/ppca) R method [here](https://github.com/DLesmes/Debuggers/blob/main/PPCA4missing_values.R) and verificate the results here
 
-  * Per [user Id](https://github.com/DLesmes/Debuggers/tree/main/80%25) 
+  * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/80%25/Xid_MissingValuesAnalysis.ipynb) 
   * Per [month](https://github.com/DLesmes/Debuggers/blob/main/80%25/Xmes_MissingValuesAnalysis.ipynb)
   * Per [all timeline](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Xmes_MissingValuesAnalysis-Copy1.ipynb)
 
@@ -51,7 +51,7 @@ To modeling the problem we follow this steps
 
 4. [Tree algorithms](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Default_DT_RF_ET.ipynb)
 
-5. Neuronal Networs ([1st](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig.ipynb), [2nd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_2.ipynb), [3rd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3.ipynb), [4th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_Znorm.ipynb), [5th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_PCACentred_Log.ipynb), [6th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_4.ipynb), [7th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_5.ipynb), [8th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_top30Variables.ipynb))
+5. Neuronal Networs ([1st](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig.ipynb), [2nd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_2.ipynb), [3rd](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3.ipynb), [4th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_Znorm.ipynb), [5th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_PCACentred_Log.ipynb), [6th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_4.ipynb), [7th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_5.ipynb), [8th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_top30Variables.ipynb), [9th](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/NN_littlePig_Arqui_3_top7Variables_RandomSample.ipynb))
 
 At the end the best results was the one's reached with the all timeline strategy because in this case it wasn't necessary to chage any at all about the objetive variable, but the time's up and we didn't win but we learned too much! 
 
