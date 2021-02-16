@@ -13,15 +13,15 @@ To face this problem we explore three ways to master the data and make the final
 
 1. Aggregate all data per user id
 
-  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Calculo%20por%20mes.ipynb) is the code used to reach this objective. At the very beggining of this process the idea was to set the money variables in dic-20 value [here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Indexing_Input_Pesos_Dic_20.ipynb) based on the [IPC](https://totoro.banrep.gov.co/analytics/saw.dll?Download&Format=excel2007&Extension=.xls&BypassCache=true&lang=es&NQUser=publico&NQPassword=publico123&path=%2Fshared%2FSeries%20Estad%C3%ADsticas_T%2F1.%20IPC%20base%202018%2F1.2.%20Por%20a%C3%B1o%2F1.2.5.IPC_Serie_variaciones)
+  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Aggregate_all_dataXid.ipynb) is the code used to reach this objective. At the very beggining of this process the idea was to set the money variables in dic-20 value [here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Indexing_Input_Pesos_Dic_20.ipynb) based on the [IPC](https://totoro.banrep.gov.co/analytics/saw.dll?Download&Format=excel2007&Extension=.xls&BypassCache=true&lang=es&NQUser=publico&NQPassword=publico123&path=%2Fshared%2FSeries%20Estad%C3%ADsticas_T%2F1.%20IPC%20base%202018%2F1.2.%20Por%20a%C3%B1o%2F1.2.5.IPC_Serie_variaciones)
 
 2. Aggregate all data per month
 
-  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Aggregate_all_dataXid.ipynb) is the code used to reach this objective
+  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Calculo%20por%20mes.ipynb) is the code used to reach this objective
 
 3. Take historical data along the timeline
 
-  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Categorical_Data_Engineering-Copy1.ipynb) is the code to reach this objective
+  [Here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Aggregate_all_dataXid-Copy1.ipynb) is the code to reach this objective
 
 In each case we have to impute all the missing values with the [PPCA](https://www.rdocumentation.org/packages/pcaMethods/versions/1.64.0/topics/ppca) R method [here](https://github.com/DLesmes/Debuggers/blob/main/PPCA4missing_values.R) and verificate the results here
 
