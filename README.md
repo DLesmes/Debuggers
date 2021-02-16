@@ -43,7 +43,7 @@ To modeling the problem we follow this steps
 
 3. PCA
 
-  * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xid_PCA.ipynb)
+  * Per [user Id](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xid_PCA-First.ipynb)
   * per [month](https://github.com/DLesmes/Debuggers/blob/main/20%25/Xmes_PCA.ipynb)
   * Per all timeline
     * [z-norm](https://github.com/DLesmes/Debuggers/blob/main/20%25/Alomarrano/Xid_PCA_Second.ipynb)
