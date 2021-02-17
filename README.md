@@ -9,7 +9,7 @@ To face this problem we explore three ways to master the data and make the final
 
 ## Data Engineering
 
-  We fist have to fix the [numerical](https://github.com/DLesmes/Debuggers/blob/main/80%25/Numerical_Data_Engineering.ipynb) and the [categorical](https://github.com/DLesmes/Debuggers/blob/main/80%25/Categorical_Data_Engineering.ipynb) data, and make some categorical ranks to [label](https://github.com/DLesmes/Debuggers/blob/main/80%25/Labeled%26Dummies_Variables.ipynb) the data focused on the objective variable, but [here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Data_Engineering.ipynb) you can see a kind of EDA
+  We fist have to fix the [numerical](https://github.com/DLesmes/Debuggers/blob/main/80%25/Numerical_Data_Engineering.ipynb) and the [categorical](https://github.com/DLesmes/Debuggers/blob/main/80%25/Categorical_Data_Engineering.ipynb) data, and make some categorical ranks to [label](https://github.com/DLesmes/Debuggers/blob/main/80%25/Labeled%26Dummies_Variables.ipynb) the data focused on the objective variable, but [here](https://github.com/DLesmes/Debuggers/blob/main/80%25/Alomarrano_processing/Data_Engineering_Pig.ipynb) you can see a kind of EDA
 
 1. Aggregate all data per user id
 
